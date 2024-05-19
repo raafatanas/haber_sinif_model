@@ -2,3 +2,4 @@ streamlit
 nltk
 anyio
 lightgbm
+sklearn
